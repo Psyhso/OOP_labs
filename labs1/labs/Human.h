@@ -1,5 +1,9 @@
-#include "Coords.h"
 #pragma once
+
+#include "Coords.h"
+#include "GameArea.h"
+#include <string>
+
 
 class Human {
 protected:
@@ -7,6 +11,8 @@ protected:
 	double damage;
 	Coords coords;
 public:
-	virtual void moving();
-	virtual void attack();
+	Coords get_coords();
+	Coords set_coords(int x, int y);
+	bool moving(std::string direction, GameArea& gamearea);
+	void attack();
 };

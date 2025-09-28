@@ -1,8 +1,9 @@
+#include "Cell.h"
 #include <iostream>
 
 int main() {
 
-	std::cout << "wegwe";
-
+	Cell cell;
+	std::cout << cell.get_type();
 	return 0;
 }
