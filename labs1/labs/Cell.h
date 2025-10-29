@@ -2,21 +2,32 @@
 #include <iostream>
 #include <string>
 #include <utility>
-#include "Human.h"
-#include "Tower.h"
 
+
+class Human;
+class Building;
+
+enum class CellType {
+	BASIC,      // Обычная клетка
+	BLOCKED,    // Непроходимое препятствие
+	SLOW       // Замедляющая клетка
+};
 
 class Cell {
 private:
-	std::string type = "Basic";
-	std::pair<Human*, Tower*> object;
+	CellType type = CellType::BASIC;
+	std::pair<Human*, Building*> object;
+	bool is_passable = true;
 public:
 	Cell() : object(nullptr, nullptr) {}
-	std::string get_type();
+	CellType get_type();
+	Human* get_human();
+	Building* get_building();
+	std::string get_type_string();
 	std::string is_empty();
 	void set_human(Human* human);
-	void set_tower(Tower* tower);
-	Human* get_human();
-	Tower* get_tower();
+	void set_building(Building* building);
+	void set_type(CellType new_type);
 	void clear();
+	bool player_or_enemy();
 };

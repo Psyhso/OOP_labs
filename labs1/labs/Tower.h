@@ -1,4 +1,7 @@
 #pragma once
-class Tower {
+#include "Building.h"
+
+
+class Tower : Building{
 
 };

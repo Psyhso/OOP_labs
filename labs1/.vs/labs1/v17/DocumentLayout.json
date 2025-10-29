@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\GameArea.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameError.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\GameError.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\GameArea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\EnemyBuilding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\EnemyBuilding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Coords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Coords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E48EE4-45F8-4C78-BDEF-8A4696A075C0}|labs\\labs.vcxproj|solutionrelative:labs\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameError.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameError.h",
+              "RelativeDocumentMoniker": "labs\\GameError.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameError.h",
+              "RelativeToolTip": "labs\\GameError.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T10:27:01.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Building.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.cpp",
+              "RelativeDocumentMoniker": "labs\\Building.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.cpp",
+              "RelativeToolTip": "labs\\Building.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-02T15:00:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Building.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.h",
+              "RelativeDocumentMoniker": "labs\\Building.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Building.h",
+              "RelativeToolTip": "labs\\Building.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T14:04:33.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameArea.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.cpp",
+              "RelativeDocumentMoniker": "labs\\GameArea.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.cpp",
+              "RelativeToolTip": "labs\\GameArea.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T11:36:37.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameArea.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.h",
+              "RelativeDocumentMoniker": "labs\\GameArea.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\GameArea.h",
+              "RelativeToolTip": "labs\\GameArea.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:02:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyBuilding.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.cpp",
+              "RelativeDocumentMoniker": "labs\\EnemyBuilding.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.cpp",
+              "RelativeToolTip": "labs\\EnemyBuilding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-02T14:22:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyBuilding.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.h",
+              "RelativeDocumentMoniker": "labs\\EnemyBuilding.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\EnemyBuilding.h",
+              "RelativeToolTip": "labs\\EnemyBuilding.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T14:07:54.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cell.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.cpp",
+              "RelativeDocumentMoniker": "labs\\Cell.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.cpp",
+              "RelativeToolTip": "labs\\Cell.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T13:24:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cell.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.h",
+              "RelativeDocumentMoniker": "labs\\Cell.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Cell.h",
+              "RelativeToolTip": "labs\\Cell.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:02:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.cpp",
+              "RelativeDocumentMoniker": "labs\\Player.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.cpp",
+              "RelativeToolTip": "labs\\Player.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T11:13:40.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.h",
+              "RelativeDocumentMoniker": "labs\\Player.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Player.h",
+              "RelativeToolTip": "labs\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T13:54:34.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.cpp",
+              "RelativeDocumentMoniker": "labs\\Enemy.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.cpp",
+              "RelativeToolTip": "labs\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-02T11:50:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.h",
+              "RelativeDocumentMoniker": "labs\\Enemy.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Enemy.h",
+              "RelativeToolTip": "labs\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T11:47:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Human.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.h",
+              "RelativeDocumentMoniker": "labs\\Human.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.h",
+              "RelativeToolTip": "labs\\Human.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T13:39:08.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Human.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.cpp",
+              "RelativeDocumentMoniker": "labs\\Human.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Human.cpp",
+              "RelativeToolTip": "labs\\Human.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T13:48:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\main.cpp",
+              "RelativeDocumentMoniker": "labs\\main.cpp",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\main.cpp",
+              "RelativeToolTip": "labs\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T11:49:55.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coords.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Coords.h",
+              "RelativeDocumentMoniker": "labs\\Coords.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAA\\\u041E\u041E\u041F\\OOP_labs\\labs1\\labs\\Coords.h",
+              "RelativeToolTip": "labs\\Coords.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-28T11:35:29.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

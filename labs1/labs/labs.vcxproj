@@ -123,16 +123,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Building.cpp" />
     <ClCompile Include="Cell.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="EnemyBuilding.cpp" />
     <ClCompile Include="GameArea.cpp" />
+    <ClCompile Include="GameError.h" />
     <ClCompile Include="Human.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Player.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Building.h" />
     <ClInclude Include="Cell.h" />
     <ClInclude Include="Coords.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyBuilding.h" />
     <ClInclude Include="GameArea.h" />
     <ClInclude Include="Human.h" />
     <ClInclude Include="Player.h" />
